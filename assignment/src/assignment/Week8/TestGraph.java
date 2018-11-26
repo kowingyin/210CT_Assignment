@@ -13,7 +13,7 @@ public class TestGraph {
 	 */
 	 public static void main(String args[]) { 
 	     
-	     int V = 9; //No. of Vertice
+	     int V = 5; //No. of Vertice
 	     GraphStruc g = new GraphStruc(V); 
 	     g.addEdge(1, 0); 
 	     g.addEdge(0, 2); 
